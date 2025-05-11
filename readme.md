@@ -11,7 +11,7 @@ How to play:
 6. type “python main.py”. Make sure you have Python and pygame installed on your computer. 
 7. play!
 
-You can also run the script start_game.bat and don't fiddle with cmd, the script does everything for you!
+You can also run the script start_game.bat and don't fiddle with cmd, the script does everything for you! You might get a warning about it being dangerous, but you can run it anyway. Trust me, it's not a virus, you can even check the file. 
 
 ### This is a fork of kebab clicker, a game also by me. 
 
