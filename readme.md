@@ -1,4 +1,4 @@
-#Before you play: 
+# Before you play: 
 
 The game is created by regeditexe. It's open source this time.  
 
@@ -10,6 +10,6 @@ The game is created by regeditexe. It's open source this time.
 
 You can also run the script start_game.bat and don't fiddle with cmd, the script does everything for you!
 
-###This is a fork of kebab clicker, a game also by me. 
+### This is a fork of kebab clicker, a game also by me. 
 
 Press "M" to mute. It's fiddly, so press it twice for the first time. 
